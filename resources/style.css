@@ -1,7 +1,34 @@
-main{
+.tagline{
     font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+    text-align: center;
 }
 *{
     background-color: black;
     text-align: center;
+}
+a{
+    color: aquamarine;
+}
+a:hover{
+    color: deeppink ;
+    font-size: 16px;
+
+}
+h2,.soon {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    font-family: Verdana;
+}
+.function{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+.footer{
+    text-align: right;
+    color: gray;
 }
